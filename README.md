@@ -142,7 +142,7 @@
 ```
     public void draw() {
         /* Add some implemetantion here */
-        System.out.println("Drawing a circle");
+        System.out.println("Drawing a rectangle");
     }
 ```
 
