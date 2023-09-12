@@ -165,7 +165,7 @@
 
 
 - Create a method to add testing data. Here is an example. You can create a method as you wish.
-    ```
+```
     public static void addShapes() {
         // Automatically generate a circle set.
         Set<Shape> circleSet = IntStream.range(0, 5)
@@ -181,7 +181,7 @@
         // Add the rectangle set into the shape set
         shapes.addAll(rectangleSet);
     }
-    ```
+```
 
 - Modify `main` method.
 ```
