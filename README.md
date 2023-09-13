@@ -1,4 +1,4 @@
-# Creat your Java project
+# Create your Java project
 
 - Open VS code.
 
