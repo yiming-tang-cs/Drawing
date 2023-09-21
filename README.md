@@ -2,13 +2,13 @@
 
 - Open VS code.
 
-- Press `Ctrl + Shift + P` -> Select `Java: Create Java project...` or Click on `Create Java Project` button on the welcome page
+- Press `Ctrl + Shift + P` -> Select `Java: Create Java project...` or Click on `Create Java Project` button on the welcome page.
 
-- Select `No build tools` (if you want to create a **maven** project,  you can choose maven)
+- Select `No build tools` (if you want to create a **maven** project,  you can choose maven).
 
-- Select the project folder
+- Select the project folder.
 
-- Enter project name, such as "Drawing"
+- Enter project name, such as "Drawing".
 
 
 ## Create Shape class
